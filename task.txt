@@ -1,0 +1,80 @@
+HTML Resume
+Whether this is your first experience with code or you already have some experience, at some point, you’ll need to update your resume so let’s create a simple HTML resume that sticks to the basics.
+
+We’ll focus on using traditional elements like <div>, <h1> through <h6> for headings, <p> for paragraphs, <ul> and <li> for lists, <a> for links, and of course **<img>** for images! This exercise will help solidify the understanding of basic HTML structure and tags.
+
+Goal
+Create a basic HTML resume document using only traditional HTML elements.
+
+Steps
+Set Up the Document
+Begin with the <!DOCTYPE html> declaration to specify the HTML version.
+Open an <html> tag followed by a <head> section. Inside the <head>, include a <title> tag to give your document a title, such as the name of the person the resume belongs to.
+Close the <head> section and open the <body> section where the content of the resume will go.
+Create the Header
+Add an **<img>** tag for your headshot.
+You can drop the image file on your working directory and simply set the src to the path to that file, e.g. if the file is called mypic.jpg , the src value is /mypic.jpg .
+You can also use an image that’s publicly available on the internet.
+Let’s set width and height to 300
+Don’t forget the alt value. Set it to your name!
+Use an <h1> tag for your name.
+Follow it with an <ul> tag for the contact information (email and phone number).
+Use <li> tags inside of your <ul> for each one of your contact information
+You can use fake data of course.
+You want the actual email and phone number to be <a> tags!
+Add an Objective or Summary
+Use an <h2> tag for a section title like “Objective” or “Summary”.
+Follow with a <p> tag to write a brief introduction or objective statement.
+List Education and Experience
+For each section (Education and Experience), use an <h2> tag for the title.
+Use <ul> for the list container, and <li> for each item. Inside each <li>, you can use <h3> for subheadings like degrees or job titles, and <p> for details like the institution name, dates, and brief descriptions.
+Include Skills and Interests
+Again, use an <h2> tag for the section title.
+Use <ul> and <li> tags to list skills and interests.
+Close the Document
+Ensure all opened tags are properly closed.
+Close the <body> and then the <html> tags.
+Conclusion
+This exercise is a great way to practice using basic HTML tags and structuring a document. It helps in understanding how to organize content logically using headings, paragraphs, and lists. Dive in, experiment with the structure, and remember, practice makes perfect! Keep exploring and tweaking your resume as you learn more. Happy coding! 🚀
+
+HTML-Lebenslauf
+Egal, ob dies deine erste Erfahrung mit Code ist oder du bereits Erfahrung hast – irgendwann wirst du deinen Lebenslauf aktualisieren müssen. Deshalb erstellen wir einen einfachen HTML-Lebenslauf, der sich auf die Grundlagen konzentriert.
+
+Wir werden traditionelle HTML-Elemente verwenden, darunter <div>, Überschriften von <h1> bis <h6>, <p> für Absätze, <ul> und <li> für Listen, <a> für Links und natürlich <img> für Bilder! Diese Übung hilft dir, ein solides Verständnis für die grundlegende HTML-Struktur und ihre Tags zu entwickeln.
+
+Ziel
+Erstelle ein einfaches HTML-Dokument für deinen Lebenslauf unter Verwendung traditioneller HTML-Elemente.
+
+Schritte
+1. Dokument einrichten
+Beginne mit der <!DOCTYPE html>-Deklaration, um die HTML-Version anzugeben.
+Öffne den <html>-Tag, gefolgt von einem <head>-Bereich.
+Innerhalb des <head>-Bereichs füge einen <title>-Tag hinzu, um dem Dokument einen Titel zu geben (z. B. den Namen der Person, zu der der Lebenslauf gehört).
+Schließe den <head>-Bereich und öffne den <body>-Bereich, in dem der Inhalt des Lebenslaufs stehen wird.
+2. Kopfbereich erstellen
+Füge ein <img>-Tag für dein Profilbild hinzu.
+Speichere das Bild in deinem Arbeitsverzeichnis und setze das src-Attribut auf den Pfad zu dieser Datei, z. B. /meinbild.jpg, wenn die Datei meinbild.jpg heißt.
+Alternativ kannst du ein öffentlich verfügbares Bild aus dem Internet verwenden.
+Setze width und height auf 300.
+Vergiss nicht das alt-Attribut – setze es auf deinen Namen!
+Verwende einen <h1>-Tag für deinen Namen.
+Erstelle eine <ul>-Liste für die Kontaktdaten (E-Mail und Telefonnummer).
+Verwende <li>-Tags innerhalb der <ul>, um die einzelnen Kontaktinformationen aufzulisten.
+Die tatsächliche E-Mail-Adresse und Telefonnummer sollten als <a>-Tags formatiert sein.
+Natürlich kannst du auch Platzhalter-Daten verwenden.
+3. Ziel oder Zusammenfassung hinzufügen
+Verwende ein <h2>-Tag für eine Abschnittsüberschrift wie „Ziel“ oder „Zusammenfassung“.
+Nutze ein <p>-Tag, um eine kurze Einleitung oder eine Beschreibung deines beruflichen Ziels zu schreiben.
+4. Ausbildung und Berufserfahrung auflisten
+Verwende für jede dieser Sektionen (Ausbildung und Berufserfahrung) ein <h2>-Tag als Überschrift.
+Nutze <ul> für den Listen-Container und <li> für jedes Listenelement.
+Innerhalb jedes <li> kannst du ein <h3> für Unterüberschriften wie Abschlüsse oder Jobtitel verwenden.
+Ergänze <p>-Tags für Details wie den Namen der Institution, Zeiträume und kurze Beschreibungen.
+5. Fähigkeiten und Interessen hinzufügen
+Verwende erneut ein <h2>-Tag für die Überschrift des Abschnitts.
+Erstelle eine <ul>-Liste mit <li>-Elementen, um deine Fähigkeiten und Interessen aufzulisten.
+6. Dokument schließen
+Stelle sicher, dass alle geöffneten Tags korrekt geschlossen sind.
+Schließe den <body>-Tag und danach den <html>-Tag.
+Fazit
+Diese Übung ist eine großartige Möglichkeit, den Umgang mit grundlegenden HTML-Tags zu üben und ein Dokument sinnvoll zu strukturieren. Sie hilft dir zu verstehen, wie du Inhalte logisch organisierst – mit Überschriften, Absätzen und Listen. Probiere es aus, experimentiere mit der Struktur und denke daran: Übung macht den Meister! Je mehr du ausprobierst und anpasst, desto besser wirst du. Viel Spaß beim Coden! 🚀
